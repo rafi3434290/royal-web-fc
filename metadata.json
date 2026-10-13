@@ -1,0 +1,6 @@
+{
+  "name": "Remix Remix Royal SMP - Official Minecraft Server",
+  "description": "The ultimate Royal Medieval Survival Multiplayer experience. Custom economy, royal ranks, dynmap, grief prevention, and active kingdom events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
